@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haiwle.github.io/Xwh/sitemap.Xwh.gz
